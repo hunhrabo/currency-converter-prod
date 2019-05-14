@@ -3,6 +3,7 @@ const cors = require("cors");
 const app = express();
 const request = require("request");
 
+app.use(express.static("build"));
 app.use(cors());
 
 app.use(function(req, res, next) {
