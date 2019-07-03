@@ -1,9 +1,9 @@
-This is production version of my Currency Converter app,<br>
-which currently live on [Herkoku](https://salty-forest-20285.herokuapp.com/).
+This is the production version of my Currency Converter app,<br>
+which currently live on [Heroku](https://salty-forest-20285.herokuapp.com/).
 
 The app is built using Node.js, Express and React.
 
-When you cloned the project on your computer, navigate to the project's directory and install the dependecies by typing
+When you have cloned the project on your computer, navigate to the project's directory and install the dependecies by typing
 
 ### `npm install`
 
